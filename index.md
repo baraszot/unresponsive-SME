@@ -1,6 +1,6 @@
 # What To Do When Your SME Is Not Responding To Your Emails
 
-You are working on a tech writing project. You need to consult something with a subject matter expert. You wrote them an e-mail and you wait for their answer. You wait. And you wait... No response yet? Here's a couple of things you might try.
+You are working on a technical writing project. You need to consult something with a subject matter expert. You wrote them an e-mail and you wait for their answer. You wait. And you wait... No response yet? Here's a couple of things you might try.
 
 ## Reach out
 
