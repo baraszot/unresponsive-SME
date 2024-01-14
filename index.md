@@ -1,10 +1,18 @@
-# What To Do When Your SME Is Not Responding To Your Emails
+# Your subject matter expert does not answer your emails - what you can do
 
-You're working on a tech writing project. You need to consult something with a subject matter expert. You wrote them an e-mail and you wait for their answer. You wait. And you wait... No response yet? Here's a couple of things you might try.
+You work on a technical writing project. You need to ask your subject matter expert about something. You wrote them an e-mail and you wait for the answer from the expert. The expert does not answer. Do these things.
 
-## Reach out
+## Contact your expert
 
-**Quick fix:** Contact them again. In the world of busy grown-ups even the most organized individuals need a little reminder sometimes. Diversify your communication channels. If their inbox is overflowing, a text or a Slack message might be better at catching their attention. Also, hard as it may be to imagine to some of us, the non-writers sometimes simply don't like to write. What you need might be a phone call away.
+**You can do these things now and quickly:**
+
+- Send them an e-mail again.
+- Use Slack or a phone to send them a message.
+- Use a phone to call them.
+
+*Think about these things:*
+- Maybe the expert got too many emails.
+- Maybe the expert does not like to write emails.
 
 ![triumphing-positive-blonde-middled-aged-woman-clenches-fist-from-joy-celebrates-success-reads-awesome-news-via-smartphone-received-positive-feedback-wears-spectacles-blouse-isolated-white-wall](triumphing-positive-blonde-middled-aged-woman-clenches-fist-from-joy-celebrates-success-reads-awesome-news-via-smartphone-received-positive-feedback-wears-spectacles-blouse-isolated-white-wall.jpg) 
 *Image by stockking on Freepik*
