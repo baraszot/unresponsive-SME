@@ -1,6 +1,6 @@
 # Your subject matter expert does not answer your emails - what you can do
 
-You work on a technical writing project. You need to ask your subject matter expert about something. You wrote them an e-mail and you wait for their answer. The expert does not answer. Do these things.
+You work on a technical writing project. You need to ask your subject matter expert about something. You wrote them an e-mail and you wait for the answer from the expert. The expert does not answer. Do these things.
 
 ## Contact your expert
 
